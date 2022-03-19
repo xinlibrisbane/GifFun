@@ -10,6 +10,12 @@ namespace GitUiFun
     {
         static void Main(string[] args)
         {
+            FixBug1();
+        }
+
+        static void FixBug1()
+        {
+
         }
     }
 }
