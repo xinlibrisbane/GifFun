@@ -12,6 +12,7 @@ namespace GitUiFun
         {
             FixBug1();
             FixBug2();
+            FixBug3();
         }
 
         static void FixBug1()
@@ -20,6 +21,11 @@ namespace GitUiFun
         }
 
         static void FixBug2()
+        {
+
+        }
+
+        static void FixBug3()
         {
 
         }
