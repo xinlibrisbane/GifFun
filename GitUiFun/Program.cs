@@ -11,11 +11,17 @@ namespace GitUiFun
         static void Main(string[] args)
         {
             FixBug1();
+            FixBug2();
         }
 
         static void FixBug1()
         {
             Console.Write("Hey new changes on the master");
+        }
+
+        static void FixBug2()
+        {
+
         }
     }
 }
