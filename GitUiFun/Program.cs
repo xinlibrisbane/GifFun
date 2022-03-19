@@ -27,7 +27,7 @@ namespace GitUiFun
 
         static void FixBug3()
         {
-
+            Console.Write("Hey new changes on the master");
         }
     }
 }
