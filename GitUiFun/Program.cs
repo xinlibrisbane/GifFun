@@ -13,6 +13,7 @@ namespace GitUiFun
             FixBug1();
             FixBug2();
             FixBug3();
+            FixBug4();
         }
 
         static void FixBug1()
@@ -26,6 +27,11 @@ namespace GitUiFun
         }
 
         static void FixBug3()
+        {
+            Console.Write("Hey new changes on the master");
+        }
+
+        static void FixBug4()
         {
             Console.Write("Hey new changes on the master");
         }
