@@ -31,5 +31,7 @@ namespace GitUiFun
         }
 
         int AddOnMainInt;
+
+        int AddOnMainInt2;
     }
 }
