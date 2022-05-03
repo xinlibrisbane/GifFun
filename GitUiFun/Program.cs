@@ -33,5 +33,11 @@ namespace GitUiFun
         int AddOnMainInt;
 
         int AddOnMainInt2;
+
+        void AddNewFeatureA()
+        {
+            // Add some improvement here for feature A
+
+        }
     }
 }
