@@ -37,7 +37,7 @@ namespace GitUiFun
         void AddNewFeatureA()
         {
             // Add some improvement here for feature A
-
+            // Add more improvement here for feature A
         }
     }
 }
