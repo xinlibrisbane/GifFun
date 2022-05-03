@@ -35,5 +35,9 @@ namespace GitUiFun
         {
             Console.Write("Hey new changes on the master");
         }
+
+        int AddOnMainInt;
+
+        int AddOnMainInt2;
     }
 }
