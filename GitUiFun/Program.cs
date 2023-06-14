@@ -27,10 +27,7 @@ namespace GitUiFun
 
         static void FixBug3()
         {
-            // more bug fix
-            // more bug fix
-            // more bug fix
-            // more bug fix
+            // refix bug 3
 
         }
 
