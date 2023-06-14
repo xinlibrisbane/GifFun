@@ -46,6 +46,10 @@ namespace GitUiFun
         {
         }
 
+        static void FixBug7()
+        {
+        }
+
         int AddOnMainInt;
 
         int AddOnMainInt2;
